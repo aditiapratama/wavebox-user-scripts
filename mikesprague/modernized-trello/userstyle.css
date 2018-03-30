@@ -336,6 +336,9 @@ a.known-service-link {
 .board-menu-content-frame hr {
     background: none;
 }
+.board-menu-header-title {
+    color:darkslategrey;
+}
 .show-more {
     color: #939C9F;
     padding-left: 48px;
@@ -511,7 +514,7 @@ a.known-service-link {
 }
 #contact-us {
     position: relative !important;
-    margin: 100px auto !important;
+    margin: 2% auto !important;
     text-align: center !important;
     color: #000 !important;
     display: block !important;
@@ -755,15 +758,15 @@ textarea.mod-list-name.is-editing {
 .board-menu {
     background: RGBA(6, 49, 73, 0.93);
     box-shadow: none !important;
-    color: #ffffff;
+    color:darkslategrey;
     margin-top: -55px;
 }
 .board-menu-navigation-item-link {
-    color: #ffffff;
+    color: darkslategrey;
     font-weight: 300;
 }
 .board-menu-section-header {
-    color: #ffffff;
+    color:darkslategrey;
 }
 .board-menu-section-header.js-open-activity {
     display: none;
@@ -778,7 +781,7 @@ textarea.mod-list-name.is-editing {
     color: #939C9F;
 }
 .board-menu-header a:hover {
-    color: #ffffff;
+    color:darkslategrey;
 }
 .board-menu-content .quiet,
 .board-menu-content .quiet-button,
