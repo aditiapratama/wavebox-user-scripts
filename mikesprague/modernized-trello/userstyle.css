@@ -74,7 +74,8 @@ h3 {
     font-weight: 400 !important;
 }
 .u-font-weight-bold {
-    font-weight: 400;
+    font-weight: 500;
+    color: darkslategray !important;
 }
 /*
 ----------- Site Header Bar Changes ----------*/
@@ -918,7 +919,7 @@ textarea.mod-list-name.is-editing {
 }
 .board-menu-content-frame .phenom-meta a.date,
 .board-menu-content-frame .phenom-meta.quiet {
-    color: #B8E78A;
+    color: darkcyan;
 }
 .board-menu-content-frame .phenom-meta a.date:hover {
     color: #fff;
